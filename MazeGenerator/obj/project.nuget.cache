@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vDnuks3Cq7KztDbXC/dOBtaaQOYzC/DR2fnnqbhQq1SY6tGoffURTYJ5JilELNfMqhmaEufJ/FLzioCClKngSQ==",
+  "dgSpecHash": "rx5bU9QpCIcNU8knG2VKvRxa1UGWxb0UNd5C7Yxp8ECCsCFia5N47BA/84WGNl08P0EJcE5M3y1/hHYkvLrGWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Albert\\source\\repos\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj",
+  "projectFilePath": "C:\\Users\\Albert\\Code\\C#\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Albert\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Albert\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

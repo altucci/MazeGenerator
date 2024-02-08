@@ -654,11 +654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Albert\\source\\repos\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\Albert\\Code\\C#\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj",
       "projectName": "MazeGenerator",
-      "projectPath": "C:\\Users\\Albert\\source\\repos\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj",
+      "projectPath": "C:\\Users\\Albert\\Code\\C#\\MazeGenerator\\MazeGenerator\\MazeGenerator.csproj",
       "packagesPath": "C:\\Users\\Albert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Albert\\source\\repos\\MazeGenerator\\MazeGenerator\\obj\\",
+      "outputPath": "C:\\Users\\Albert\\Code\\C#\\MazeGenerator\\MazeGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
